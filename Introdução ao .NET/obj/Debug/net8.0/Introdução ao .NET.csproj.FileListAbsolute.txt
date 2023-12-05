@@ -1,0 +1,15 @@
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\bin\Debug\net8.0\Introdução ao .NET.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\bin\Debug\net8.0\Introdução ao .NET.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\bin\Debug\net8.0\Introdução ao .NET.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\bin\Debug\net8.0\Introdução ao .NET.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\bin\Debug\net8.0\Introdução ao .NET.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\refint\Introdução ao .NET.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\Introdução ao .NET.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Introdução ao .NET\obj\Debug\net8.0\ref\Introdução ao .NET.dll
