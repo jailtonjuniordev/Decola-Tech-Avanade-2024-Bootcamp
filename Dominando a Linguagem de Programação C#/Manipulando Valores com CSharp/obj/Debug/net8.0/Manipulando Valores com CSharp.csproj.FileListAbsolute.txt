@@ -1,0 +1,15 @@
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\bin\Debug\net8.0\Manipulando Valores com CSharp.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\bin\Debug\net8.0\Manipulando Valores com CSharp.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\bin\Debug\net8.0\Manipulando Valores com CSharp.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\bin\Debug\net8.0\Manipulando Valores com CSharp.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\bin\Debug\net8.0\Manipulando Valores com CSharp.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\refint\Manipulando Valores com CSharp.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\Manipulando Valores com CSharp.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Manipulando Valores com CSharp\obj\Debug\net8.0\ref\Manipulando Valores com CSharp.dll

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7af8e9b7-1e61-436b-a6b9-e33bce57e887" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/HelloWorld.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/Introdução ao .NET.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/bin/Debug/net8.0/Introdução ao .NET.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/bin/Debug/net8.0/Introdução ao .NET.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/bin/Debug/net8.0/Introdução ao .NET.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/bin/Debug/net8.0/Introdução ao .NET.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/bin/Debug/net8.0/Introdução ao .NET.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/Introdução ao .NET.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/ref/Introdução ao .NET.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Debug/net8.0/refint/Introdução ao .NET.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Introdução ao .NET.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Introdução ao .NET.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Introdução ao .NET.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/Introdução ao .NET.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/Introdução ao .NET.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/Introdução ao .NET.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/Introdução ao .NET.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/Release/net8.0/Introdução ao .NET.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução ao .NET/obj/project.nuget.cache" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ZBwBO8KRlNPu0dGt4I3h2jyHoL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af8e9b7-1e61-436b-a6b9-e33bce57e887" name="Changes" comment="" />
+      <created>1701908645729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701908645729</updated>
+      <workItem from="1701908647864" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

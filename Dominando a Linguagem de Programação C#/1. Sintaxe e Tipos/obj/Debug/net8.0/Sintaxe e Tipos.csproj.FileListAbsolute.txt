@@ -1,0 +1,15 @@
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\bin\Debug\net8.0\Sintaxe e Tipos.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\bin\Debug\net8.0\Sintaxe e Tipos.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\bin\Debug\net8.0\Sintaxe e Tipos.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\bin\Debug\net8.0\Sintaxe e Tipos.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\bin\Debug\net8.0\Sintaxe e Tipos.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\refint\Sintaxe e Tipos.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\Sintaxe e Tipos.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Sintaxe e Tipos\obj\Debug\net8.0\ref\Sintaxe e Tipos.dll

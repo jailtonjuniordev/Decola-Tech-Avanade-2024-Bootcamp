@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Manipulando Valores com CSharp/1.0.0": {
+        "runtime": {
+          "Manipulando Valores com CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipulando Valores com CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

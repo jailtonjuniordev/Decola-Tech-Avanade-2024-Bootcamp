@@ -1,0 +1,15 @@
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\refint\Sistema de Estacionamento.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\Sistema de Estacionamento\obj\Debug\net8.0\ref\Sistema de Estacionamento.dll

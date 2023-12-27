@@ -1,0 +1,30 @@
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\bin\Debug\net8.0\Operadores em C#.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\bin\Debug\net8.0\Operadores em C#.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\bin\Debug\net8.0\Operadores em C#.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\bin\Debug\net8.0\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\bin\Debug\net8.0\Operadores em C#.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\refint\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\Operadores em C#.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Operadores em C#\obj\Debug\net8.0\ref\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.AssemblyInfoInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.AssemblyInfo.cs
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.csproj.CoreCompileInputs.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.sourcelink.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\refint\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\bin\Debug\net8.0\Operadores em C#.exe
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\bin\Debug\net8.0\Operadores em C#.deps.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\bin\Debug\net8.0\Operadores em C#.runtimeconfig.json
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\bin\Debug\net8.0\Operadores em C#.dll
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\bin\Debug\net8.0\Operadores em C#.pdb
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\Operadores em C#.genruntimeconfig.cache
+C:\Users\jailt\Documents\Programação\Decola-Tech-Avanade-2024-Bootcamp\Dominando a Linguagem de Programação C#\2. Operadores em C#\obj\Debug\net8.0\ref\Operadores em C#.dll
